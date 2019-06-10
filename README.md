@@ -5,6 +5,9 @@ With a Rails back-end and a React front-end, Informee seeks to shed some light o
 
 ## To Start
 
+* App usese PostgreSql as a database, can't be run without it. Currently working on a solution by using AWS
+* Link to [my youtube video](https://youtu.be/HXDGytM1vys) walk through of the app
+  
 1. cd InforMee-Backend
 2. run `rails s -p 3001`
 3. open a second tab in your terminal
